@@ -1,2 +1,2 @@
 # portfolio
-created my portfolio using bootstrap ,scss ,html ,css , javascript .
+created my portfolio using bootstrap ,sass ,html ,css , javascript .
